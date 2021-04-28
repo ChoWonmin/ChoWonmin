@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://ChoWonmin.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ChoWonmin&count_private=true&show_icons=true&theme=dark" />
+<a href="https://chowonmin.github.io/portfolio/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChoWonmin&count_private=true&show_icons=true" />
 </a>
-<a href="https://ChoWonmin.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoWonmin&theme=dark&hide=html" />
+
+<a href="https://chowonmin.github.io/portfolio/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoWonmin&hide=html" />
 </a>
