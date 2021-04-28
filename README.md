@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://chowonmin.github.io/portfolio/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoWonmin&langs_count=10&hide=html,css&layout=compact&count_private=true&hide=issues,contribute" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoWonmin&langs_count=10&hide=html,css&layout=compact&count_private=true&hide=issues,contributed" />
 </a>
 
 <a href="https://chowonmin.github.io/portfolio/">
