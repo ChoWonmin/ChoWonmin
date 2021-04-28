@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 <a href="https://chowonmin.github.io/portfolio/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoWonmin&hide=html" />
 </a>
-
-![ahndwon's github stats](https://github-readme-stats.vercel.app/api?username=ChoWonmin&count_private=true&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoWonmin&layout=compact)
