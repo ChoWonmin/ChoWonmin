@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://chowonmin.github.io/portfolio/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoWonmin&langs_count=10&hide=html,css" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoWonmin&langs_count=10&hide=html,css&layout=compact" />
 </a>
 
 <a href="https://chowonmin.github.io/portfolio/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChoWonmin&count_private=true&show_icons=true&layout=compact&count_private=true&hide=prs,cotribute" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChoWonmin&count_private=true&show_icons=true&count_private=true&hide=prs,cotribute" />
 </a>
 
 
